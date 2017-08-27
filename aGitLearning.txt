@@ -1,0 +1,6 @@
+git clone https://github.com/jjhong83/DataScience.git
+git add newFileName(or -A)
+git status
+git commit -m "added index.html"
+git push
+git pull
